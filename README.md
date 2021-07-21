@@ -12,7 +12,7 @@ yarn
 
 **Develop**
 
-After installing dependencies, start developing locally.
+After installing dependencies, start developing.
 
 ```
 catalog start
