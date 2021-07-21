@@ -30,11 +30,6 @@ const pages = [
       path: '/pages/logo-usage.md',
       title: "Usage",
       content: pageLoader(() => import("./pages/logo-usage.md"))
-      },
-      {
-      path: '/pages/logo-download.md',
-      title: "Download",
-      content: pageLoader(() => import("./pages/logo-download.md"))
       }
     ]
   },
