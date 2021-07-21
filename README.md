@@ -12,7 +12,7 @@ yarn
 
 **Develop**
 
-After installing dependencies, start developing.
+After installing dependencies, start developing with the following command.
 
 ```
 catalog start
@@ -20,7 +20,7 @@ catalog start
 
 **Deploy**
 
-The brand guide can be deployd on Netlify with the following settings. 
+The brand guide can be deployed on Netlify with these settings. 
 
 - Build command: catalog build -u "./"
 - Publish directory: catalog/build
