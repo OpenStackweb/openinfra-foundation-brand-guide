@@ -21,9 +21,12 @@ name: 'Blue (PMS 298 C)'
 span: 1.5
 ```
 
+#### **Grayscale Color Palette**  
+
 ```color-palette
 colors:
   - {name: "White", value: "#ffffff"}
+  - {name: "Lightest Gray", value: "#f3f3f3"}
   - {name: "Light Gray (PMS Cool Gray 1 C)", value: "#e0e0df"}
   - {name: "Dark Gray (PMS Cool Gray 7 C)", value: "#888888"}
   - {name: "Black", value: "#161616"}
