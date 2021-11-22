@@ -2,6 +2,20 @@
 
 There are a number of logo configurations available. The primary logo displays “Open Infrastructure” on one line with “Foundation” underneath and left-aligned. Alternate versions can be used if the primary logo is not a good fit for the space. There is a stacked version, a secondary logo with the name on three lines, and a fully horizontal logo. Each is available with black or white text.  
 
+###### **ICON:**
+
+```image
+light: true
+span: 1
+src: "/assets/logos/foundation-logos/OpenInfrastructureFoundation-icon-RGB.svg"
+```
+
+```image
+dark: true
+span: 1
+src: "/assets/logos/foundation-logos/OpenInfrastructureFoundation-icon-RGB-w.png"
+```
+
 ###### **PRIMARY:**
 
 ```image
@@ -64,16 +78,34 @@ src: "/assets/logos/foundation-logos/OpenInfrastructureFoundation-logo-RGB-horiz
 ```
 ---
 
-###### **ICON:**
+###### **SHORTENED HORIZONTAL:**
 
 ```image
 light: true
-span: 1
-src: "/assets/logos/foundation-logos/OpenInfrastructureFoundation-icon-RGB.svg"
+span: 1.5   
+src: "/assets/logos/foundation-logos/OpenInfraFoundation-logo-RGB-horiz.svg"
 ```
 
 ```image
 dark: true
-span: 1
-src: "/assets/logos/foundation-logos/OpenInfrastructureFoundation-icon-RGB-w.png"
+span: 1.5
+src: "/assets/logos/foundation-logos/OpenInfraFoundation-logo-RGB-horiz-W.svg"
 ```
+---
+
+###### **SHORTENED STACKED:**
+
+```image
+light: true
+span: 1.5   
+src: "/assets/logos/foundation-logos/OpenInfraFoundation-logo-RGB-stacked.svg"
+```
+
+```image
+dark: true
+span: 1.5
+src: "/assets/logos/foundation-logos/OpenInfraFoundation-logo-RGB-stacked-w.svg"
+```
+---
+
+

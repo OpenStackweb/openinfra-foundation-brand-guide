@@ -1,3 +1,22 @@
+#### **Minimum Height**  
+
+Logos should always be large enough so the details are clear and text is legible. For variations not listed below, the icon size in the logo should generally not be smaller than 16px in height. 
+
+- **Icon:**  16px
+- **Full Horizontal Logo:** 16px
+- **Primary Logo:** 22px
+- **Secondary Logo:** 42px
+- **Stacked Logo:** 72px
+
+```image
+span: 6
+plain: true
+scale: true
+src: "/assets/Images/min-size.jpg"
+description: "_Sizes in above image are relative_"
+
+```
+
 #### **Clear Space**  
 
 There should always be a margin of clear space surrounding the logos to ensure legibility. Depending on the logo, clear space will be 25% to 100% of the height of the logo. 
