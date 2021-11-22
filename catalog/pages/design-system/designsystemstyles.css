@@ -1,0 +1,13 @@
+.iframe-style {
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    width: 800px; 
+    height: 450px;
+}
+
+@media (max-width: 767px) {
+    .iframe-style {
+        margin: 0 auto;
+        width: 335px; 
+        height: 189px;
+    }
+}
