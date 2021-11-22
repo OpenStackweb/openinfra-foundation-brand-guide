@@ -111,11 +111,12 @@ ReactDOM.render(
   pages={pages} 
   logoSrc="OpenInfrastructureFoundation-logo-RGB-horiz3.svg"
   theme={{
-      textColor: "#000102",
-      sidebarColorText: "#000102",
-      brandColor: "#000102",
-      background: "#f6f6f6",
-      linkColor: "#e61e24",
+      textColor: "#161616",
+      sidebarColorText: "#161616",
+      sidebarColorTextActive: "#28a4db",
+      brandColor: "#161616",
+      background: "#ffffff",
+      linkColor: "#28a4db",
       pageHeadingBackground: "#161616",
       pageHeadingTextColor: "#ffffff",
       navBarBackground: "#eaeaea",
