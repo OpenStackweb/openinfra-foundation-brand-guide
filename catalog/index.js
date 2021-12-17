@@ -102,6 +102,11 @@ const pages = [
         title: "Banners",
         content: pageLoader(() => import("./pages/design-system/banners.js"))
       },
+      {
+        path: '/pages/design-system/alerts.js',
+        title: "Alerts",
+        content: pageLoader(() => import("./pages/design-system/alerts.js"))
+      },
     ]
   }
 ];
