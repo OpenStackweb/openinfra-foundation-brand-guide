@@ -25,7 +25,7 @@ The design system contains commonly used styles and design patterns, but does no
 
 It is pefectly acceptable to create single-use components comprised of styles and assets already found in the system. This will keep our system flexible and expressive while still maintaining consistency. If a component is being used more than once, it’s probably a good candiate for inclusion in the design system. 
 
-When creating new components, be sure to check if they align with our design principles: 
+When creating new components, be sure to check if they align with our visual design principles: 
 
 - **Open:** Is the design open to feedback from other people?  
 - **Simple:** Does the design avoid unnecessary complexity? 
