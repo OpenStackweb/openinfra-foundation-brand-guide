@@ -21,8 +21,13 @@ src: "../assets/Images/styles.png"
 
 #### **What if I don’t see the component I need?** 
 
-The design system contains commonly used styles and design patterns, but does not define every possible combination of assets.  
+The design system contains commonly used styles and design patterns, but does not define every possible combination of assets.
 
-It is pefectly acceptable to create single-use components comprised of styles and assets already found in the system. This will keep our system flexible and expressive while still maintaining consistency.  
+It is pefectly acceptable to create single-use components comprised of styles and assets already found in the system. This will keep our system flexible and expressive while still maintaining consistency. If a component is being used more than once, it’s probably a good candiate for inclusion in the design system. 
 
-If a component is being used more than once, it’s probably a good candiate for inclusion in the design system. 
+When creating new components, be sure to check if they align with our design principles: 
+
+- **Open:** Is the design open to feedback from other people?  
+- **Simple:** Does the design avoid unnecessary complexity? 
+- **Flexible:** Can the design be repurposed to work in different contexts?  
+- **Accessible:** Is the design representative of our global audience?
